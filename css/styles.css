@@ -32,14 +32,25 @@ h3 {
   text-align: center;
 }
 
+.highlight {
+  color: crimson;
+  font-style: italic;
+}
 .inside {
   list-style-position: inside;
 }
 
 .me, .band, .tig {
   width:50%;
+  height: 475;
   display: block;
   margin-left: auto;
   margin-right: auto;
   border-radius: 20%;
+}
+
+.float {
+  float: left;
+  border: 6px solid purple;
+  padding: 12px; 
 }
