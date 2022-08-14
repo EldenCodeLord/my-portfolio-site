@@ -8,6 +8,7 @@ h1 {
 
 .background {
   background-size: cover;
+  background-attachment: fixed;
 }
 
 h3 {
@@ -36,11 +37,12 @@ h3 {
   color: crimson;
   font-style: italic;
 }
+
 .inside {
   list-style-position: inside;
 }
 
-.me, .band, .tig {
+.me, .band, .tig, .gaming {
   width:50%;
   height: 475;
   display: block;
