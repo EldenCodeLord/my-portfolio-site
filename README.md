@@ -15,7 +15,7 @@
 ## Description
 
 _Personal site showcasing HTML, CSS, and GitHub repositories._
-_[Click here](https://eldencodelord.github.io/my-portfolio-site/) to check out the live page on Gh-Pages!
+_[Click here](https://eldencodelord.github.io/my-portfolio-site/) to check out the live page on Gh-Pages!_
 
 ## Setup/Installation Requirements
 
